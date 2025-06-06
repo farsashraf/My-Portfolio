@@ -402,7 +402,7 @@ section{
         text-align: center;
     }
     .home-img img{
-        width: 48rem;
+        width: 40rem;
     }
     .about{
         flex-direction: column-reverse;
@@ -421,7 +421,7 @@ section{
         margin: 3rem 0;
     }
     .about img{
-        width: 48vw;
+        width: 40vw;
     }
     .contact form{
         flex-direction: column;
