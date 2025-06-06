@@ -364,7 +364,7 @@ section{
     font-size: 10;
 }
 
-@media(max-width:1000px){
+@media(max-width:900px){
     #menu-icon{
         display: block;
     }
@@ -402,7 +402,7 @@ section{
         text-align: center;
     }
     .home-img img{
-        width: 48rem;
+        width: 56rem;
     }
     .about{
         flex-direction: column-reverse;
@@ -418,10 +418,10 @@ section{
     }
     .about .about-content h2{
         text-align: center;
-        margin: 2rem 0;
+        margin: 3rem 0;
     }
     .about img{
-        width: 44vw;
+        width: 56vw;
     }
     .contact form{
         flex-direction: column;
