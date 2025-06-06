@@ -368,6 +368,9 @@ section{
     #menu-icon{
         display: block;
     }
+    section {
+        padding: 5rem 5%; /* تقليل الحشو على الجانبين */
+    }
     .navbar{
         position: absolute;
         top: 100%;
