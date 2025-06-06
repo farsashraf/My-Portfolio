@@ -402,7 +402,7 @@ section{
         text-align: center;
     }
     .home-img img{
-        width: 40rem;
+        width: 40vw;
     }
     .about{
         flex-direction: column-reverse;
