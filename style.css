@@ -371,6 +371,16 @@ section{
     section {
         padding: 5rem 5%; /* تقليل الحشو على الجانبين */
     }
+      .projects-container {
+        grid-template-columns: 1fr;
+        place-items: center;
+        gap: 2rem;
+        padding: 0 1rem;
+    }
+    .projects-card {
+        padding: 2rem 2rem;
+        max-width: 90vw;
+    }
     .navbar{
         position: absolute;
         top: 100%;
